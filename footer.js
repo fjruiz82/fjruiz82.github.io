@@ -35,8 +35,8 @@
             </style>
 
             <!-- Columna Izquierda (Logo y Contacto) -->
-            <div style="flex: 1; min-width: 250px;">
-                <img src="https://i.ibb.co/3YRygjVB/Nadair-Logo-Wide-Light-Purple.png" alt="NadairLogo" style="width: 300px; margin-bottom: 10px;">
+            <div style="flex: 1; min-width: 300px;">
+                <img src="https://i.ibb.co/fzgWYhj2/Nadair-footer.png" alt="NadairLogo" style="width: 90%; margin-bottom: 2px;">
                 <p>Inspired by Nature</p>
                 <div style="display: flex; gap: 15px; margin: 10px 0;">
                     <a href="https://www.facebook.com/OstaraStAndrews/" target="_blank" style="font-size: 18px;">
@@ -46,14 +46,14 @@
                         <i class="fa-brands fa-instagram"></i>
                     </a>
                 </div>
-                <hr style="border-color: #D8D4BE; width: 80%;">
+                <hr style="border-color: #D8D4BE; width: 80%; margin-left: 0; border-width: 1px; border-style: solid; margin-bottom: 30px;">
                 <p><i class="fa-solid fa-phone"></i> +44 1334 477651</p>
                 <p><i class="fa-solid fa-envelope"></i> info@ostaralife.com</p>
                 <p><i class="fa-solid fa-location-dot"></i> 165 South St., St. Andrews</p>
             </div>
 
             <!-- Columna Store -->
-            <div style="flex: 1; min-width: 150px;">
+            <div style="flex: 1; min-width: 120px;">
                 <h3>Store</h3>
                 <p><a href="https://ostaralife.com/products">View all</a></p>
                 <p><a href="https://ostaralife.com/products/Clothing-c170554062">Clothing</a></p>
@@ -71,7 +71,7 @@
                 <p><i class="fa-solid fa-bullhorn"></i> <a href="http://eepurl.com/g2ZnEb">Newsletter</a></p>
                 <p><i class="fa-solid fa-scissors"></i> <a href="https://ostaralife.com/styling">Personal Styling</a></p>
 
-                <hr style="border-color: #D8D4BE; width: 80%; margin: 8px auto; border-width: 1px; border-style: solid;">
+                <hr style="border-color: #D8D4BE; width: 80%; margin-left: 0; border-width: 1px; border-style: solid;">
 
                 <h3>Community</h3>
                 <p><a href="https://marielayoga.com/">Mariela Yoga</a></p>
@@ -88,7 +88,7 @@
             </div>
         </footer>
         <div style="text-align: center; background-color: #573e6b; color: #B7BE99; padding: 10px;">
-            © Ostara - 2025
+            © Nádair - 2025
         </div>
     `;
 
