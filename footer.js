@@ -41,7 +41,9 @@
                 <p>🌿 <a href="https://ostaralife.com/about-us" style="color: #D8D4BE; text-decoration: none;">About Us</a></p>
                 <p>📢 <a href="http://eepurl.com/g2ZnEb" style="color: #D8D4BE; text-decoration: none;">Newsletter</a></p>
                 <p>💇 <a href="https://ostaralife.com/styling" style="color: #D8D4BE; text-decoration: none;">Personal Styling</a></p>
-                <hr style="border-color: #D8D4BE; width: 80%;">
+        
+                <hr style="border-color: #D8D4BE; width: 80%; margin-bottom: 2px; margin-top: 2px;">
+       
                 <h3>Community</h3>
                 <p><a href="https://marielayoga.com/" style="color: #D8D4BE; text-decoration: none;">Mariela Yoga</a></p>
                 <p><a href="https://ostaralife.com/events" style="color: #D8D4BE; text-decoration: none;">Events</a></p>
