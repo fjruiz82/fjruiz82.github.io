@@ -88,7 +88,7 @@
                     <h3>Community</h3>
                     <p><a href="https://marielayoga.com/">Mariela Yoga</a></p>
                     <p><a href="https://ostaralife.com/events">Events</a></p>
-                    <p><a href="https://beeutifulminds.ie/"></a>Beeutiful Minds</p>
+                    <p><a href="https://beeutifulminds.ie/">Beeutiful Minds</a></p>
                     
                 </div>
 
