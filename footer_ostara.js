@@ -96,9 +96,9 @@
                       <div>
                           <h3>Ostara Life</h3>
                           <p><i class="fa-solid fa-leaf"></i> <a href="https://ostaralife.com/about-us">About Us</a></p>
+                          <p><i class="fa-solid fa-seedling"></i> <a href="https://ostaralife.com/sustainability">Sustainability</a></p>
                           <p><i class="fa-solid fa-bullhorn"></i> <a href="http://eepurl.com/g2ZnEb">Newsletter</a></p>
                           <p><i class="fa-solid fa-star"></i> <a href="https://ostaralife.com/private_shopping">Private Shopping</a></p>
-                          <p><i class="fa-solid fa-scissors"></i> <a href="https://ostaralife.com/styling">Personal Styling</a></p>
                           <hr style="border-color: #D8D4BE; width: 75%; margin-left: 0; border-width: 1px; border-style: solid;">
                       </div>
                       <div>
